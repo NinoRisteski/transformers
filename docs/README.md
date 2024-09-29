@@ -320,7 +320,7 @@ includes an example of how to transcribe speech to text in the
 
 ## Writing documentation examples
 
-The syntax for Example docstrings can look as follows:
+The syntax, for example, docstrings can look as follows:
 
 ```
     Example:
